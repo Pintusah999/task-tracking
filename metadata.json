@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tasks",
+  "description": "A elegant and highly interactive daily task tracking system with room persistence, progress insights, and visual timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
